@@ -3,10 +3,10 @@
 An engaging endless space shooter game developed using C# WinForms (.NET 8) with data persistence via SQL Server. Pilot your ship, destroy enemies, earn coins, customize your experience, and climb the leaderboards!
 
 <div align="center">
-  <a href="https://youtu.be/-URenH9bs5k">
-    <img src="https://img.youtube.com/vi/-URenH9bs5k/maxresdefault.jpg" alt="Space Shooter Demo" width="600" style="border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+  <a href="https://www.marwan-boudiab.com/projects/space-shooter#demo">
+    <img src="https://crrwymojtb.ufs.sh/f/0ge4q9E4PJeZ8KwJeZkwDr1HbmqAv9L7uf30IGjsOzQtToMC" alt="Space Shooter Demo" width="600" style="border-radius: 12px;">
     <br>
-    <img src="https://img.shields.io/badge/-Watch%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+    <p><strong>▶️ Click to watch project demo</strong></p>
   </a>
 </div>
 
